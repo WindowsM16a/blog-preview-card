@@ -102,6 +102,11 @@ body {
             margin-bottom: 1.1rem;
             font-weight: 900;
         }
+
+        .preview-text h1:hover {
+            color: var(--Yellow);
+            cursor: pointer;
+        }
     }
 }
 
