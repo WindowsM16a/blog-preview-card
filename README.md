@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/WindowsM16a/blog-preview-card)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages]([https://your-live-site-url.com](https://windowsm16a.github.io/blog-preview-card/))
 
 ## My process
 
