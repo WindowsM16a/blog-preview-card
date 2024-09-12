@@ -50,7 +50,7 @@ body {
             text-align: left;
             font-size: 16px;
 
-            #learning-text {
+            .learning-text {
                 text-align: center;
                 padding: 0.4rem;
                 width: 4.6rem;
@@ -62,7 +62,7 @@ body {
 
             }
 
-            #publishing-text {
+            .publishing-text {
                 font-weight: 590;
                 margin-top: 0.7rem;
                 margin-bottom: 1.1rem;
@@ -71,7 +71,7 @@ body {
 
             }
 
-            #preview-subtext {
+            .preview-subtext {
                 font-size: 1.05rem;
                 font-weight: 500;
                 color: var(--Gray-500);
