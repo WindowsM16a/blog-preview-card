@@ -40,4 +40,4 @@ Users should be able to:
 
 ## AUTHOR
 
-- Frontend Mentor - [@WindowsM16a](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@WindowsM16a](https://www.frontendmentor.io/profile/WindowsM16a)
